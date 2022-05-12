@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LW State Sales Tax Calculator", "LW State Sales Tax Calculator\LW State Sales Tax Calculator.vbproj", "{FF1B9CEA-DA5B-4598-A1A9-B6A56D47D0C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF1B9CEA-DA5B-4598-A1A9-B6A56D47D0C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1B9CEA-DA5B-4598-A1A9-B6A56D47D0C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1B9CEA-DA5B-4598-A1A9-B6A56D47D0C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1B9CEA-DA5B-4598-A1A9-B6A56D47D0C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A242771C-5620-416A-8C78-FCFE53D4955E}
+	EndGlobalSection
+EndGlobal

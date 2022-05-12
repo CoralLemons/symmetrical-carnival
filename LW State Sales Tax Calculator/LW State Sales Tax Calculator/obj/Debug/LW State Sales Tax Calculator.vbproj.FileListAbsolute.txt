@@ -1,0 +1,25 @@
+C:\Users\gothi\source\repos\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW State Sales Tax Calculator.vbprojAssemblyReference.cache
+C:\Users\gothi\source\repos\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW_State_Sales_Tax_Calculator.frmSSTC.resources
+C:\Users\gothi\source\repos\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW_State_Sales_Tax_Calculator.Resources.resources
+C:\Users\gothi\source\repos\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW State Sales Tax Calculator.vbproj.GenerateResource.cache
+C:\Users\gothi\source\repos\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW State Sales Tax Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\gothi\source\repos\LW State Sales Tax Calculator\LW State Sales Tax Calculator\bin\Debug\LW State Sales Tax Calculator.exe.config
+C:\Users\gothi\source\repos\LW State Sales Tax Calculator\LW State Sales Tax Calculator\bin\Debug\LW State Sales Tax Calculator.exe
+C:\Users\gothi\source\repos\LW State Sales Tax Calculator\LW State Sales Tax Calculator\bin\Debug\LW State Sales Tax Calculator.pdb
+C:\Users\gothi\source\repos\LW State Sales Tax Calculator\LW State Sales Tax Calculator\bin\Debug\LW State Sales Tax Calculator.xml
+C:\Users\gothi\source\repos\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW State Sales Tax Calculator.exe
+C:\Users\gothi\source\repos\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW State Sales Tax Calculator.xml
+C:\Users\gothi\source\repos\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW State Sales Tax Calculator.pdb
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW State Sales Tax Calculator\LW State Sales Tax Calculator\bin\Debug\LW State Sales Tax Calculator.exe.config
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW State Sales Tax Calculator\LW State Sales Tax Calculator\bin\Debug\LW State Sales Tax Calculator.exe
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW State Sales Tax Calculator\LW State Sales Tax Calculator\bin\Debug\LW State Sales Tax Calculator.pdb
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW State Sales Tax Calculator\LW State Sales Tax Calculator\bin\Debug\LW State Sales Tax Calculator.xml
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW State Sales Tax Calculator.vbproj.AssemblyReference.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW State Sales Tax Calculator.vbproj.SuggestedBindingRedirects.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW_State_Sales_Tax_Calculator.frmSSTC.resources
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW_State_Sales_Tax_Calculator.Resources.resources
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW State Sales Tax Calculator.vbproj.GenerateResource.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW State Sales Tax Calculator.vbproj.CoreCompileInputs.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW State Sales Tax Calculator.exe
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW State Sales Tax Calculator.xml
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW State Sales Tax Calculator\LW State Sales Tax Calculator\obj\Debug\LW State Sales Tax Calculator.pdb

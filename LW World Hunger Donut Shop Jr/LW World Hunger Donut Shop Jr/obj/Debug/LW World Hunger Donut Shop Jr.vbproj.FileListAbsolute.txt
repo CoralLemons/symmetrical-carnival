@@ -1,0 +1,25 @@
+C:\Users\gothi\source\repos\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\bin\Debug\LW World Hunger Donut Shop Jr.exe.config
+C:\Users\gothi\source\repos\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\bin\Debug\LW World Hunger Donut Shop Jr.exe
+C:\Users\gothi\source\repos\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\bin\Debug\LW World Hunger Donut Shop Jr.pdb
+C:\Users\gothi\source\repos\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\bin\Debug\LW World Hunger Donut Shop Jr.xml
+C:\Users\gothi\source\repos\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW World Hunger Donut Shop Jr.vbprojAssemblyReference.cache
+C:\Users\gothi\source\repos\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW_World_Hunger_Donut_Shop_Jr.frmWHDSjr.resources
+C:\Users\gothi\source\repos\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW_World_Hunger_Donut_Shop_Jr.Resources.resources
+C:\Users\gothi\source\repos\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW World Hunger Donut Shop Jr.vbproj.GenerateResource.cache
+C:\Users\gothi\source\repos\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW World Hunger Donut Shop Jr.vbproj.CoreCompileInputs.cache
+C:\Users\gothi\source\repos\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW World Hunger Donut Shop Jr.exe
+C:\Users\gothi\source\repos\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW World Hunger Donut Shop Jr.xml
+C:\Users\gothi\source\repos\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW World Hunger Donut Shop Jr.pdb
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\bin\Debug\LW World Hunger Donut Shop Jr.exe.config
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\bin\Debug\LW World Hunger Donut Shop Jr.exe
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\bin\Debug\LW World Hunger Donut Shop Jr.pdb
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\bin\Debug\LW World Hunger Donut Shop Jr.xml
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW World Hunger Donut Shop Jr.vbproj.AssemblyReference.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW World Hunger Donut Shop Jr.vbproj.SuggestedBindingRedirects.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW_World_Hunger_Donut_Shop_Jr.frmWHDSjr.resources
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW_World_Hunger_Donut_Shop_Jr.Resources.resources
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW World Hunger Donut Shop Jr.vbproj.GenerateResource.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW World Hunger Donut Shop Jr.vbproj.CoreCompileInputs.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW World Hunger Donut Shop Jr.exe
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW World Hunger Donut Shop Jr.xml
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW World Hunger Donut Shop Jr\LW World Hunger Donut Shop Jr\obj\Debug\LW World Hunger Donut Shop Jr.pdb

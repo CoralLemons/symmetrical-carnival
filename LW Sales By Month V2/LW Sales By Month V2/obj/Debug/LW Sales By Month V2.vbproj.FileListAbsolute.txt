@@ -1,0 +1,25 @@
+C:\Users\gothi\source\repos\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW_Sales_By_Month_V2.frmSBM.resources
+C:\Users\gothi\source\repos\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW_Sales_By_Month_V2.Resources.resources
+C:\Users\gothi\source\repos\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW Sales By Month V2.vbproj.GenerateResource.cache
+C:\Users\gothi\source\repos\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW Sales By Month V2.vbproj.CoreCompileInputs.cache
+C:\Users\gothi\source\repos\LW Sales By Month V2\LW Sales By Month V2\bin\Debug\LW Sales By Month V2.exe.config
+C:\Users\gothi\source\repos\LW Sales By Month V2\LW Sales By Month V2\bin\Debug\LW Sales By Month V2.exe
+C:\Users\gothi\source\repos\LW Sales By Month V2\LW Sales By Month V2\bin\Debug\LW Sales By Month V2.pdb
+C:\Users\gothi\source\repos\LW Sales By Month V2\LW Sales By Month V2\bin\Debug\LW Sales By Month V2.xml
+C:\Users\gothi\source\repos\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW Sales By Month V2.exe
+C:\Users\gothi\source\repos\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW Sales By Month V2.xml
+C:\Users\gothi\source\repos\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW Sales By Month V2.pdb
+C:\Users\gothi\source\repos\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW Sales By Month V2.vbprojAssemblyReference.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Sales By Month V2\LW Sales By Month V2\bin\Debug\LW Sales By Month V2.exe.config
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Sales By Month V2\LW Sales By Month V2\bin\Debug\LW Sales By Month V2.exe
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Sales By Month V2\LW Sales By Month V2\bin\Debug\LW Sales By Month V2.pdb
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Sales By Month V2\LW Sales By Month V2\bin\Debug\LW Sales By Month V2.xml
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW Sales By Month V2.vbproj.AssemblyReference.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW Sales By Month V2.vbproj.SuggestedBindingRedirects.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW_Sales_By_Month_V2.frmSBM.resources
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW_Sales_By_Month_V2.Resources.resources
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW Sales By Month V2.vbproj.GenerateResource.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW Sales By Month V2.vbproj.CoreCompileInputs.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW Sales By Month V2.exe
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW Sales By Month V2.xml
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Sales By Month V2\LW Sales By Month V2\obj\Debug\LW Sales By Month V2.pdb
