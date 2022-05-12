@@ -1,0 +1,25 @@
+C:\Users\gothi\source\repos\RNG Game LW\RNG Game LW\bin\Debug\RNG Game LW.exe.config
+C:\Users\gothi\source\repos\RNG Game LW\RNG Game LW\bin\Debug\RNG Game LW.exe
+C:\Users\gothi\source\repos\RNG Game LW\RNG Game LW\bin\Debug\RNG Game LW.pdb
+C:\Users\gothi\source\repos\RNG Game LW\RNG Game LW\bin\Debug\RNG Game LW.xml
+C:\Users\gothi\source\repos\RNG Game LW\RNG Game LW\obj\Debug\RNG Game LW.vbprojAssemblyReference.cache
+C:\Users\gothi\source\repos\RNG Game LW\RNG Game LW\obj\Debug\RNG_Game_LW.frmRNGame.resources
+C:\Users\gothi\source\repos\RNG Game LW\RNG Game LW\obj\Debug\RNG_Game_LW.Resources.resources
+C:\Users\gothi\source\repos\RNG Game LW\RNG Game LW\obj\Debug\RNG Game LW.vbproj.GenerateResource.cache
+C:\Users\gothi\source\repos\RNG Game LW\RNG Game LW\obj\Debug\RNG Game LW.vbproj.CoreCompileInputs.cache
+C:\Users\gothi\source\repos\RNG Game LW\RNG Game LW\obj\Debug\RNG Game LW.exe
+C:\Users\gothi\source\repos\RNG Game LW\RNG Game LW\obj\Debug\RNG Game LW.xml
+C:\Users\gothi\source\repos\RNG Game LW\RNG Game LW\obj\Debug\RNG Game LW.pdb
+H:\School Files\Spring 2020\CSC 211\Black PC Source\RNG Game LW\RNG Game LW\bin\Debug\RNG Game LW.exe.config
+H:\School Files\Spring 2020\CSC 211\Black PC Source\RNG Game LW\RNG Game LW\bin\Debug\RNG Game LW.exe
+H:\School Files\Spring 2020\CSC 211\Black PC Source\RNG Game LW\RNG Game LW\bin\Debug\RNG Game LW.pdb
+H:\School Files\Spring 2020\CSC 211\Black PC Source\RNG Game LW\RNG Game LW\bin\Debug\RNG Game LW.xml
+H:\School Files\Spring 2020\CSC 211\Black PC Source\RNG Game LW\RNG Game LW\obj\Debug\RNG Game LW.vbproj.AssemblyReference.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\RNG Game LW\RNG Game LW\obj\Debug\RNG Game LW.vbproj.SuggestedBindingRedirects.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\RNG Game LW\RNG Game LW\obj\Debug\RNG_Game_LW.frmRNGame.resources
+H:\School Files\Spring 2020\CSC 211\Black PC Source\RNG Game LW\RNG Game LW\obj\Debug\RNG_Game_LW.Resources.resources
+H:\School Files\Spring 2020\CSC 211\Black PC Source\RNG Game LW\RNG Game LW\obj\Debug\RNG Game LW.vbproj.GenerateResource.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\RNG Game LW\RNG Game LW\obj\Debug\RNG Game LW.vbproj.CoreCompileInputs.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\RNG Game LW\RNG Game LW\obj\Debug\RNG Game LW.exe
+H:\School Files\Spring 2020\CSC 211\Black PC Source\RNG Game LW\RNG Game LW\obj\Debug\RNG Game LW.xml
+H:\School Files\Spring 2020\CSC 211\Black PC Source\RNG Game LW\RNG Game LW\obj\Debug\RNG Game LW.pdb

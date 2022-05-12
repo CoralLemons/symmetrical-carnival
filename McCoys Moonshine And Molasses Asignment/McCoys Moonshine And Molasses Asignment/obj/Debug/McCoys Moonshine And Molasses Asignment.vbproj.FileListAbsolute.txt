@@ -1,0 +1,25 @@
+C:\Users\gothi\source\repos\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\bin\Debug\McCoys Moonshine And Molasses Asignment.exe.config
+C:\Users\gothi\source\repos\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\bin\Debug\McCoys Moonshine And Molasses Asignment.exe
+C:\Users\gothi\source\repos\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\bin\Debug\McCoys Moonshine And Molasses Asignment.pdb
+C:\Users\gothi\source\repos\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\bin\Debug\McCoys Moonshine And Molasses Asignment.xml
+C:\Users\gothi\source\repos\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys Moonshine And Molasses Asignment.vbprojAssemblyReference.cache
+C:\Users\gothi\source\repos\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys_Moonshine_And_Molasses_Asignment.frmMcCoys.resources
+C:\Users\gothi\source\repos\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys_Moonshine_And_Molasses_Asignment.Resources.resources
+C:\Users\gothi\source\repos\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys Moonshine And Molasses Asignment.vbproj.GenerateResource.cache
+C:\Users\gothi\source\repos\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys Moonshine And Molasses Asignment.vbproj.CoreCompileInputs.cache
+C:\Users\gothi\source\repos\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys Moonshine And Molasses Asignment.exe
+C:\Users\gothi\source\repos\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys Moonshine And Molasses Asignment.xml
+C:\Users\gothi\source\repos\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys Moonshine And Molasses Asignment.pdb
+H:\School Files\Spring 2020\CSC 211\Black PC Source\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\bin\Debug\McCoys Moonshine And Molasses Asignment.exe.config
+H:\School Files\Spring 2020\CSC 211\Black PC Source\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\bin\Debug\McCoys Moonshine And Molasses Asignment.exe
+H:\School Files\Spring 2020\CSC 211\Black PC Source\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\bin\Debug\McCoys Moonshine And Molasses Asignment.pdb
+H:\School Files\Spring 2020\CSC 211\Black PC Source\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\bin\Debug\McCoys Moonshine And Molasses Asignment.xml
+H:\School Files\Spring 2020\CSC 211\Black PC Source\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys Moonshine And Molasses Asignment.vbproj.AssemblyReference.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys Moonshine And Molasses Asignment.vbproj.SuggestedBindingRedirects.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys_Moonshine_And_Molasses_Asignment.frmMcCoys.resources
+H:\School Files\Spring 2020\CSC 211\Black PC Source\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys_Moonshine_And_Molasses_Asignment.Resources.resources
+H:\School Files\Spring 2020\CSC 211\Black PC Source\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys Moonshine And Molasses Asignment.vbproj.GenerateResource.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys Moonshine And Molasses Asignment.vbproj.CoreCompileInputs.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys Moonshine And Molasses Asignment.exe
+H:\School Files\Spring 2020\CSC 211\Black PC Source\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys Moonshine And Molasses Asignment.xml
+H:\School Files\Spring 2020\CSC 211\Black PC Source\McCoys Moonshine And Molasses Asignment\McCoys Moonshine And Molasses Asignment\obj\Debug\McCoys Moonshine And Molasses Asignment.pdb
