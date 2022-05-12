@@ -1,0 +1,25 @@
+C:\Users\gothi\source\repos\LW Foreign Currency Exchange\LW Foreign Currency Exchange\bin\Debug\LW Foreign Currency Exchange.exe.config
+C:\Users\gothi\source\repos\LW Foreign Currency Exchange\LW Foreign Currency Exchange\bin\Debug\LW Foreign Currency Exchange.exe
+C:\Users\gothi\source\repos\LW Foreign Currency Exchange\LW Foreign Currency Exchange\bin\Debug\LW Foreign Currency Exchange.pdb
+C:\Users\gothi\source\repos\LW Foreign Currency Exchange\LW Foreign Currency Exchange\bin\Debug\LW Foreign Currency Exchange.xml
+C:\Users\gothi\source\repos\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW Foreign Currency Exchange.vbprojAssemblyReference.cache
+C:\Users\gothi\source\repos\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW_Foreign_Currency_Exchange.frmFCE.resources
+C:\Users\gothi\source\repos\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW_Foreign_Currency_Exchange.Resources.resources
+C:\Users\gothi\source\repos\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW Foreign Currency Exchange.vbproj.GenerateResource.cache
+C:\Users\gothi\source\repos\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW Foreign Currency Exchange.vbproj.CoreCompileInputs.cache
+C:\Users\gothi\source\repos\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW Foreign Currency Exchange.exe
+C:\Users\gothi\source\repos\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW Foreign Currency Exchange.xml
+C:\Users\gothi\source\repos\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW Foreign Currency Exchange.pdb
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Foreign Currency Exchange\LW Foreign Currency Exchange\bin\Debug\LW Foreign Currency Exchange.exe.config
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Foreign Currency Exchange\LW Foreign Currency Exchange\bin\Debug\LW Foreign Currency Exchange.exe
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Foreign Currency Exchange\LW Foreign Currency Exchange\bin\Debug\LW Foreign Currency Exchange.pdb
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Foreign Currency Exchange\LW Foreign Currency Exchange\bin\Debug\LW Foreign Currency Exchange.xml
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW Foreign Currency Exchange.vbproj.AssemblyReference.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW Foreign Currency Exchange.vbproj.SuggestedBindingRedirects.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW_Foreign_Currency_Exchange.frmFCE.resources
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW_Foreign_Currency_Exchange.Resources.resources
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW Foreign Currency Exchange.vbproj.GenerateResource.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW Foreign Currency Exchange.vbproj.CoreCompileInputs.cache
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW Foreign Currency Exchange.exe
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW Foreign Currency Exchange.xml
+H:\School Files\Spring 2020\CSC 211\Black PC Source\LW Foreign Currency Exchange\LW Foreign Currency Exchange\obj\Debug\LW Foreign Currency Exchange.pdb
